@@ -1,1 +1,1 @@
-# python-
+print("Try programiz.pro")
